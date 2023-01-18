@@ -27,9 +27,27 @@ az login --identity --username <client_id|object_id|resource_id>
 - [Authenticate Azure Cli](https://docs.microsoft.com/en-us/cli/azure/authenticate-azure-cli)
 :::
 
+
+## Get Access Token
+
+``sh title=""
+az account get-access-token [--name]
+                            [--resource]
+                            [--resource-type {aad-graph, arm, batch, data-lake, media, ms-graph, oss-rdbms}]
+                            [--scope]
+                            [--tenant]
+
+// Example 
+az account get-access-token
+az account get-access-token --subscription 00000000-0000-0000-0000-000000000000
+az account get-access-token --tenant 00000000-0000-0000-0000-000000000000
+az account get-access-token --resource-type ms-graph
+```
+
+1. [Reference](https://learn.microsoft.com/en-US/cli/azure/account?view=azure-cli-latest#az-account-get-access-token)
+
+
 ## Create service principle
-
-
 
 
 
