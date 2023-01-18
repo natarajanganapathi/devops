@@ -45,7 +45,7 @@ az account get-access-token --resource-type ms-graph
 ```
 
 1. [Reference](https://learn.microsoft.com/en-US/cli/azure/account?view=azure-cli-latest#az-account-get-access-token)
-
+2. [Step by Step](https://learn.microsoft.com/en-us/rest/api/servicebus/get-azure-active-directory-token)
 
 ## Create service principle
 
