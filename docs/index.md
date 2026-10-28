@@ -34,6 +34,18 @@ sidebar_position: 1
 
 
 
+
+Metric / Dimension	Keycloak	Logto	Casdoor	Authelia
+Tech Stack	Java / Quarkus	Node.js / TypeScript	Go (Golang) / React	Go (Golang) / React
+Primary Architecture	Enterprise IdP (OIDC/SAML)	CIAM / Auth0-alternative	IAM & SSO multi-protocol	Reverse proxy Forward-Auth
+Minimum Hardware	2 vCPU, 2–4 GB RAM	1 vCPU, 1–2 GB RAM	1 vCPU, 512 MB–1 GB RAM	0.5 vCPU, 128–256 MB RAM
+Feature Set (out of 10)	9.5 / 10	8.5 / 10	8.5 / 10	5.5 / 10
+Performance (Throughput)	8.5 / 10	8.0 / 10	9.0 / 10	9.5 / 10
+Resource Efficiency	5.5 / 10	7.5 / 10	9.0 / 10	10 / 10
+Hardware Demands	Heavy	Moderate	Light	Minimal
+Overall Score	8.4 / 10	8.2 / 10	8.6 / 10	7.0 / 10
+
+
 ## DevOps
 
 1. [90 Days of DevOps](https://github.com/michaelcade/90daysofdevops)

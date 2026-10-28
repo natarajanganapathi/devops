@@ -86,3 +86,34 @@ cargo test
 # Test perticular package
 cargo test -p <package-name>
 ```
+
+
+### Selected Module - Web Application Development using Rust/React Stack
+
+#### Framework
+
+REST API Framwork  = Axum / Actix Web
+ORM                = SeaOrm
+
+#### Database
+
+SQL Database            = sqllite 
+Graph Database          = sqlitegraph 
+Vector Database         = qdrant
+geographical Database   = Spatialite 
+
+#### Utility
+
+serde_json - Json Serialization
+
+#### React 
+Framework   = Nextjs
+UI Library  = 
+
+
+#### IDP 
+1. Casdoor
+2. KeyClock
+
+#### API Gateway
+1. 
