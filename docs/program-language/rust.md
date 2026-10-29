@@ -107,13 +107,13 @@ geographical Database   = Spatialite
 serde_json - Json Serialization
 
 #### React 
-Framework   = Nextjs
-UI Library  = 
+Framework   = Nextjs, React Native
+UI Library  = MUI
 
 
 #### IDP 
-1. Casdoor
-2. KeyClock
+1. Casdoor With UI
+2. KeyClock with UI
 
 #### API Gateway
 1. 
