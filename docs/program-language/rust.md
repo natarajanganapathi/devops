@@ -112,6 +112,8 @@ Smol/Tokio - async runtime.
 Framework   = Nextjs, React Native
 UI Library  = MUI
 
+#### webserver with SSR & ISR
+
 
 #### IDP 
 1. Casdoor With UI
