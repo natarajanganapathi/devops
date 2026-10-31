@@ -105,6 +105,8 @@ geographical Database   = Spatialite
 #### Utility
 
 serde_json - Json Serialization
+garde - validator
+Smol/Tokio - async runtime. 
 
 #### React 
 Framework   = Nextjs, React Native
@@ -116,4 +118,4 @@ UI Library  = MUI
 2. KeyClock with UI
 
 #### API Gateway
-1. 
+1. Apache APISIX 
